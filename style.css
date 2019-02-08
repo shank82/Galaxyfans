@@ -1,0 +1,104 @@
+/* ==================================
+Base Styles
+
+===================================== */
+
+img.resize {
+  max-width:240px;
+  height: auto;
+  display: center;
+
+}
+Body {
+  font-family: 'Varela Round', sans-serif ;
+  font-size: 1.8;
+  line-height:1.6;
+  Background: lightGrey;
+
+}
+
+  P{
+    font-size:.95em;
+    margin-left: 4em;
+  }
+
+
+
+h1{
+  margin-left:3em;
+}
+
+h2{
+  color: #B00909;
+}
+
+
+/* =========================================
+  Base Layout Styles
+  =============================================== */
+
+.container {
+
+}
+
+/* ===
+
+=====*/
+
+
+  /* =========================
+  Main Navigation */
+
+
+  .main-nav li {
+  	text-align: center;
+  	background: #fff;
+  	margin-top: 6px;
+  	margin-bottom: 6px;
+  }
+
+  .main-nav a {
+  	font-size: .95em;
+  	color: #3acec2;
+  	text-transform: uppercase;
+  }
+
+  .main-nav a:hover {
+  	color: #093a58;
+  }
+
+  .name a,
+  .main-nav a {
+  	padding: 10px 15px;
+  	display: block;
+
+
+
+    /* ===
+  .main-nav a {
+    font-size: .95em;
+  }
+
+  .main-nav li {
+    text-align: center;
+    background: 800000
+    display: inline-block;
+
+  }
+
+  .main-footer {
+	text-align: center;
+	padding: 2em 0;
+	background: #d9e4ea;
+}
+  =====*/
+
+@media query {
+
+  /* Need to change this so that on desktops they will sit side by side */
+
+}
+
+
+
+}
