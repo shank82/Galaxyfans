@@ -1,0 +1,41 @@
+
+/* =============================
+Base Styles ===================== */
+
+/*main text */
+
+h1{
+  margin-left:3em;
+  color: #11111;
+  font-size: 5em;
+}
+
+h2 {
+  margin-left:3em;
+
+}
+
+
+
+
+/* Body */
+body {
+
+}
+
+/*main navigation*/
+
+.main-nav {
+  font-size: 50px;
+
+}
+
+img {
+  width:100%;
+}
+
+
+p {
+  font-size:16px;
+
+}
